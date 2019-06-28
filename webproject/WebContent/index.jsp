@@ -2,7 +2,7 @@
 <html>
 
 	<head>
-		<title>his影院</title>
+		<title>影院</title>
 		<meta name="keywords" content="视觉中国yy6080新视觉影院,6080新视觉影院,yy6080,6080电影网,yy电影频道YY4480高清影院、yy4480官网、yy4480首播影院、爱看影院yy4480、4480电影、奇领、 yy6029、yy4480、yy4410、yy6080、4480、6080、4410、a4yy" />
 		<meta name="description" content="YY4480高清影院、yy4480首播影院、看吧影院、新视觉影院、万利达影院、青苹果影院、a4yy、yy6090、yy4138、yy4410、yy6042、yy6080、免费高清影视在线观看" />
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
